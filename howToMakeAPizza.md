@@ -1,3 +1,4 @@
+########################################
 1. CHAMPIÑONES
 2. CAMARONES
 3. QUESO MOZZARELLA
@@ -14,3 +15,4 @@ Retira y déjalo enfriar.
 
 6. Agregar los ingredientes al gusto.
 7. Meterl al horno por 15 a 20 minutos.
+##########################################
