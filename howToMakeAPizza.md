@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+1. Conseguir los ingredientes para la masa
+    Harina, Sal, Levadura, Agua tibia, Aceite
+2. Mezclar todo en un bol y luego amasar hasta que tenga buena consistencia.
+3. Dejar reposar la masa durante una hora.
+=======
 1. CHAMPIÑONES
 2. CAMARONES
 3. QUESO MOZZARELLA
@@ -14,3 +20,4 @@ Retira y déjalo enfriar.
 
 6. Agregar los ingredientes al gusto.
 7. Meterl al horno por 15 a 20 minutos.
+>>>>>>> c3b72bd4fb4fa5f5e8f3114aa9cfe134ee890c0c
